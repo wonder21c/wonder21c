@@ -1,4 +1,4 @@
-
+<div align = "center">
 
 <!--
 **wonder21c/wonder21c** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonder21c&show_icons=true&theme=radical)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=wonder21c&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonder21c&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
+ 
 <a href="https://evanescent-fly-223.notion.site/Son-Coding-bea852fdb1554a71b7fad743e7053078" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
 
  <a href="https://www.instagram.com/im.___.real/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 
+  </div>
