@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://evanescent-fly-223.notion.site/Son-Coding-bea852fdb1554a71b7fad743e7053078" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wonder21c&show_icons=true&theme=radical)
