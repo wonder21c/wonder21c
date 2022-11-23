@@ -19,8 +19,6 @@ Here are some ideas to get you started:
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wonder21c&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
  
-<a href="https://evanescent-fly-223.notion.site/Son-Coding-bea852fdb1554a71b7fad743e7053078" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white">
-
- <a href="https://www.instagram.com/im.___.real/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
+<a href="https://evanescent-fly-223.notion.site/Son-Coding-bea852fdb1554a71b7fad743e7053078" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"> <a href="https://www.instagram.com/im.___.real/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white">
 
   </div>
